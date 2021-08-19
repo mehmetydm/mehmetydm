@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mehmetydm
-- 🌱 I’m currently interesting in fundementals.
+- 🌱 I’m currently learnin python, aws.
 - 💞️ I’m looking to join a team in which i want to be a part of free, confident, creative, collobrative developing atmosphere with openness, respective and modern values.   
 - 📫 How to reach me - mehmetymd@gmail.com
 
