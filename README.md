@@ -13,7 +13,7 @@ Skills:
 - Development Methodology/Tool: Agile, Scrum, Confluence, Jira
 - Reporting: JasperReport
 - Architecture: OOP, Mikroservices, DDD, TDD
-- Learning Path/Newbie: Cloud(AWS, GCP), KrakenD, Python/Flask, Docker/K8s, MondoDB, Cassandra, ETCD, Hadoop, NodeJs/ExpressJs
+- Learning Path/Newbie: Cloud(AWS, GCP), KrakenD, Python/Flask, Docker/K8s, MondoDB, Cassandra, ETCD, Hadoop, NodeJs/ExpressJs, ML, Flask, FastApi, Voice Rec.
 
 <!---
 mehmetydm/mehmetydm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
