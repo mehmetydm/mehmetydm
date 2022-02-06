@@ -13,7 +13,8 @@ Skills:
 - Dev. Metodology/Arch./Tool: Agile, Scrum, OOP, Microservis, DDD, TDD, Confluence, Jira
 - CI/CD: Gitlab
 - Reporting: JasperReport
-- Learning Path: [Cloud(AWS), Docker/K8s,MondoDB, Cassandra, Flask, Machine Learning]
+- Learning Path: [Flask, Python, Machine Learning]
+- Learning Path2: pandas, numpy, scipy, matplotlib, keras, scikit-learn
 <!---
 mehmetydm/mehmetydm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
