@@ -1,6 +1,6 @@
 ### Hi there 👋, Mehmet YILDIRIM
 #### Design & Development - Project Management
-![Design & Development - Project Management](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Design & Development - Project Management](79731568097599.5b50bca477735.jpg)
 
 Hello! I am Mehmet YILDIRIM from Turkey. I am software engineer with sixteen years of work experiences on design and development web based software applications and services. I have 2 years of experience on managing a software development unit. Have excellent interpersonal skills to effectively communicate with technical teams, cross-functional teams and staff at all levels of the organization including both technical and non-technical people.
 
